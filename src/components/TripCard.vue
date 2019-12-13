@@ -24,7 +24,7 @@
       "trip", "index", "recomDist"
     ],
     methods : {
-      //상세 페이지로 이동 함수
+      //상세 페이지로 이동 함수 d
       notice() {
         const contentid = Number(this.trip.contentId);
         this.$router.push({name: 'tripDetailPage', params: {contentId: contentid}});
