@@ -20,7 +20,7 @@
     "vue-geolocation-api": "^0.1.17",
     "vue-horizontal-timeline": "^0.5.0",
     "vue-masonry-css": "^1.0.3",
-    "vue-moment": "^4.0.0",
+    "vue-moment": "^4.1.0",
     "vue-naver-maps": "^0.11.9",
     "vue-router": "^3.1.3",
     "vue2-editor": "^2.10.2",
